@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/server.ts",
     "build": "tsc",
-    "serve": "node dist/server.js"
+    "start": "node dist/server.js",
+    "dev": "node --loader tsm src/server.ts"
   },
   "keywords": [],
   "author": "",
