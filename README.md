@@ -30,7 +30,7 @@ Production Build:
 npm run build
 npm run start
 
-📖 Usage
+Usage
 API Endpoint
 GET /naver?query=<PRODUCT_URL>
 
